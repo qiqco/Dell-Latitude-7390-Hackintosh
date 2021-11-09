@@ -1,5 +1,6 @@
 # Dell-Latitude-7390-Hackintosh
 
+<a href="https://github.com/qiqco/Dell-Latitude-7390-Hackintosh/releases">EFI下载地址<a/>
 ## 配置
 CPU | i5-7300U
 ------------ | -------------
