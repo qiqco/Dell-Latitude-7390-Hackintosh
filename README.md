@@ -1,5 +1,13 @@
 # Dell-Latitude-7390-Hackintosh
 
+## 使用此EFI前，建议修改本机的DVMT和CFG Lock
+链接教程：
+
+<a href="https://www.asly.top/archives/21/"> DVMT教程<a/>
+
+<a href="https://www.asly.top/archives/20/"> CFG教程<a/>
+  
+ ## EFI下载地址
 <a href="https://github.com/qiqco/Dell-Latitude-7390-Hackintosh/releases">EFI下载地址<a/>
 ## 配置
 CPU | i5-7300U
