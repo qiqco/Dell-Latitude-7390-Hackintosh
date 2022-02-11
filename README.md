@@ -1,6 +1,6 @@
 # Dell-Latitude-7390-Hackintosh
 
-## 使用此EFI前，建议修改本机的DVMT和CFG Lock
+## 使用此EFI前，请修改本机的DVMT和CFG Lock
 链接教程：
 
 <a href="https://www.asly.top/archives/21/"> DVMT教程<a/>
